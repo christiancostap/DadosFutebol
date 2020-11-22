@@ -4,4 +4,4 @@ Este foi meu primeiro projeto em Python criado. O objetivo é navegar pelo site 
 
 Apesar de o código estar atualmente muito confuso, afinal foi um dos primeiros códigos que digitei, optei por subi-lo ainda assim para que empresas vejam meus trabalhos realizados. 
 
-Pretendo voltar ao código em um futuro próximo para "limpar" e dar prosseguimento ao desenvolvimento, já que a parte de análise está pendente.
+Pretendo voltar ao código em um futuro próximo para "limpar", comentar, atualizar e dar prosseguimento ao desenvolvimento, já que a parte de análise está pendente.
